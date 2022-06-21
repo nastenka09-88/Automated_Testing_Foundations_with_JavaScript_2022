@@ -1,0 +1,22 @@
+{
+  "name": "automated_testing_foundations_with_javascript_2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nastenka09-88/Automated_Testing_Foundations_with_JavaScript_2022.git"
+  },
+  "author": "nastenka09-88@tut.by",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nastenka09-88/Automated_Testing_Foundations_with_JavaScript_2022/issues"
+  },
+  "homepage": "https://github.com/nastenka09-88/Automated_Testing_Foundations_with_JavaScript_2022#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
